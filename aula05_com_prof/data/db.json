@@ -1,0 +1,58 @@
+{
+  "alunos": [
+    {
+      "id": 2,
+      "nome": "Jose Augusto",
+      "email": "jose@ufpb.br"
+    },
+    {
+      "nome": "Carlos Edurdo",
+      "email": "carlos@hormail.com",
+      "id": 3
+    },
+    {
+      "nome": "gessica melo",
+      "email": "gessica@gmail.com",
+      "id": 4
+    },
+    {
+      "nome": "Fulaninho",
+      "email": "fulaninho@gmaol.com",
+      "id": 5
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "nome": "curso Fullstack",
+      "descricao": "frond e backEnd",
+      "instrutor": "kelson"
+    },
+    {
+      "nome": "java",
+      "descricao": "apredendo java basico",
+      "instrutor": "Gessy",
+      "id": 2
+    }
+  ],
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "fulano",
+      "contato": "54654654",
+      "mensagem": "teste 123"
+    },
+    {
+      "id": 2,
+      "nome": "alfredo",
+      "contato": "83 545454455",
+      "mensagem": "lkaslkhksjhfkj teste 02"
+    },
+    {
+      "nome": "gesica",
+      "contato": "5456465",
+      "mensagem": "fjhdkjshfkj",
+      "id": 3
+    }
+  ]
+}
